@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is React?",
+    "options": ["Library", "Language", "Database", "Browser"],
+    "answer": "Library"
+  },
+  {
+    "question": "Which hook is used to manage state?",
+    "options": ["useEffect", "useState", "useRef", "useMemo"],
+    "answer": "useState"
+  },
+  {
+    "question": "Which language is used with React?",
+    "options": ["Python", "Java", "JavaScript", "C"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "What is JSX?",
+    "options": ["A database", "A CSS library", "A syntax extension", "A browser"],
+    "answer": "A syntax extension"
+  },
+  {
+    "question": "Which method is used to render lists in React?",
+    "options": ["map()", "push()", "pop()", "findIndex()"],
+    "answer": "map()"
+  }
+]
